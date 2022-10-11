@@ -13,3 +13,7 @@
 [自动化友情](https://github.com/MliKiowa/BlogFriend)
 
 [静态页面](https://github.com/MliKiowa/Mlikiowa.github.io)
+
+[统计服务](https://github.com/MliKiowa/BlogAckee)
+
+[域名动态解析](https://github.com/MliKiowa/Blogddns)
